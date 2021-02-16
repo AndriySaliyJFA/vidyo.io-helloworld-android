@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">VidyoIODemo</string>
+    <string name="permissions">Application permissions were not accepted. Please accept permissions to use the application.</string>
 </resources>
